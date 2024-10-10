@@ -16,6 +16,16 @@
 
 ---
 
+## Download Link
+
+> [!IMPORTANT]
+> Make sure you add "Z9" to the end of the link.
+
+### LINK
+In order to download the pack open the [download-link](./download-link) file and copy the link listed.
+
+---
+
 ## Modpack Primary Tasks List
 
 - [ ] Create the Main Information Markdown Page
